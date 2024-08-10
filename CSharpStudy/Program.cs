@@ -193,8 +193,11 @@ namespace CSharpStudy
             int circleNumber = int.Parse(circleinput);
 
             Console.WriteLine($"원의 넓이 : {circleNumber * circleNumber * 3.14}");
-            
 
+            Console.Write("이름을 입력해주세요 : ");
+            string inputName;
+            inputName = Console.ReadLine();
+            Console.WriteLine($"당신의 이름은 : {inputName}.");
 
 
 
