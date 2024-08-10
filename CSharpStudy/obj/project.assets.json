@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Visual Study\\CSharpStudy\\CSharpStudy.csproj",
+      "projectUniqueName": "C:\\Users\\gajak\\Documents\\GitHub\\CSharpStudy240810\\CSharpStudy\\CSharpStudy.csproj",
       "projectName": "CSharpStudy",
-      "projectPath": "D:\\Visual Study\\CSharpStudy\\CSharpStudy.csproj",
+      "projectPath": "C:\\Users\\gajak\\Documents\\GitHub\\CSharpStudy240810\\CSharpStudy\\CSharpStudy.csproj",
       "packagesPath": "C:\\Users\\gajak\\.nuget\\packages\\",
-      "outputPath": "D:\\Visual Study\\CSharpStudy\\obj\\",
+      "outputPath": "C:\\Users\\gajak\\Documents\\GitHub\\CSharpStudy240810\\CSharpStudy\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
