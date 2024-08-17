@@ -197,12 +197,7 @@ namespace CSharpStudy
             Console.Write("이름을 입력해주세요 : ");
             string inputName;
             inputName = Console.ReadLine();
-            Console.WriteLine($"당신의 이름은 : {inputName}.");
-
-
-
-
-
+            Console.WriteLine($"당신의 이름 : {inputName}.");
         }
     }
 }

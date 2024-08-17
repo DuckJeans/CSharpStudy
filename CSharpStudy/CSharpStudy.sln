@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34728.123
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpStudy", "CSharpStudy.csproj", "{44EC7EA8-3F07-49A3-B33D-1035652DB3CC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CSharpStudy", "CSharpStudy.csproj", "{44EC7EA8-3F07-49A3-B33D-1035652DB3CC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "클래스와 매소드", "..\클래스와 매소드\클래스와 매소드.csproj", "{2DA8E63C-2A58-4CCA-88F8-FFDCA6F219F5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{44EC7EA8-3F07-49A3-B33D-1035652DB3CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{44EC7EA8-3F07-49A3-B33D-1035652DB3CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{44EC7EA8-3F07-49A3-B33D-1035652DB3CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2DA8E63C-2A58-4CCA-88F8-FFDCA6F219F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DA8E63C-2A58-4CCA-88F8-FFDCA6F219F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DA8E63C-2A58-4CCA-88F8-FFDCA6F219F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DA8E63C-2A58-4CCA-88F8-FFDCA6F219F5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
