@@ -6,10 +6,10 @@
       "AbsoluteMoniker": "D:0:0:{2DA8E63C-2A58-4CCA-88F8-FFDCA6F219F5}|..\\\uD074\uB798\uC2A4\uC640 \uB9E4\uC18C\uB4DC\\\uD074\uB798\uC2A4\uC640 \uB9E4\uC18C\uB4DC.csproj|c:\\users\\gajak\\documents\\github\\csharpstudy240810\\\uD074\uB798\uC2A4\uC640 \uB9E4\uC18C\uB4DC\\\uD074\uB798\uC2A4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2DA8E63C-2A58-4CCA-88F8-FFDCA6F219F5}|..\\\uD074\uB798\uC2A4\uC640 \uB9E4\uC18C\uB4DC\\\uD074\uB798\uC2A4\uC640 \uB9E4\uC18C\uB4DC.csproj|c:\\users\\gajak\\documents\\github\\csharpstudy240810\\\uD074\uB798\uC2A4\uC640 \uB9E4\uC18C\uB4DC\\\uB9E4\uC18C\uB4DC.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2DA8E63C-2A58-4CCA-88F8-FFDCA6F219F5}|..\\\uD074\uB798\uC2A4\uC640 \uB9E4\uC18C\uB4DC\\\uD074\uB798\uC2A4\uC640 \uB9E4\uC18C\uB4DC.csproj|c:\\users\\gajak\\documents\\github\\csharpstudy240810\\\uD074\uB798\uC2A4\uC640 \uB9E4\uC18C\uB4DC\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2DA8E63C-2A58-4CCA-88F8-FFDCA6F219F5}|..\\\uD074\uB798\uC2A4\uC640 \uB9E4\uC18C\uB4DC\\\uD074\uB798\uC2A4\uC640 \uB9E4\uC18C\uB4DC.csproj|c:\\users\\gajak\\documents\\github\\csharpstudy240810\\\uD074\uB798\uC2A4\uC640 \uB9E4\uC18C\uB4DC\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2DA8E63C-2A58-4CCA-88F8-FFDCA6F219F5}|..\\\uD074\uB798\uC2A4\uC640 \uB9E4\uC18C\uB4DC\\\uD074\uB798\uC2A4\uC640 \uB9E4\uC18C\uB4DC.csproj|c:\\users\\gajak\\documents\\github\\csharpstudy240810\\\uD074\uB798\uC2A4\uC640 \uB9E4\uC18C\uB4DC\\\uB9E4\uC18C\uB4DC.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2DA8E63C-2A58-4CCA-88F8-FFDCA6F219F5}|..\\\uD074\uB798\uC2A4\uC640 \uB9E4\uC18C\uB4DC\\\uD074\uB798\uC2A4\uC640 \uB9E4\uC18C\uB4DC.csproj|c:\\users\\gajak\\documents\\github\\csharpstudy240810\\\uD074\uB798\uC2A4\uC640 \uB9E4\uC18C\uB4DC\\\uB124\uC784\uC2A4\uD398\uC774\uC2A4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -30,7 +30,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "\uB9E4\uC18C\uB4DC.cs",
               "DocumentMoniker": "C:\\Users\\gajak\\Documents\\GitHub\\CSharpStudy240810\\\uD074\uB798\uC2A4\uC640 \uB9E4\uC18C\uB4DC\\\uB9E4\uC18C\uB4DC.cs",
               "RelativeDocumentMoniker": "..\\\uD074\uB798\uC2A4\uC640 \uB9E4\uC18C\uB4DC\\\uB9E4\uC18C\uB4DC.cs",
@@ -38,8 +38,7 @@
               "RelativeToolTip": "..\\\uD074\uB798\uC2A4\uC640 \uB9E4\uC18C\uB4DC\\\uB9E4\uC18C\uB4DC.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-17T05:24:55.841Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-17T05:24:55.841Z"
             },
             {
               "$type": "Document",
@@ -49,7 +48,7 @@
               "RelativeDocumentMoniker": "..\\\uD074\uB798\uC2A4\uC640 \uB9E4\uC18C\uB4DC\\\uD074\uB798\uC2A4.cs",
               "ToolTip": "C:\\Users\\gajak\\Documents\\GitHub\\CSharpStudy240810\\\uD074\uB798\uC2A4\uC640 \uB9E4\uC18C\uB4DC\\\uD074\uB798\uC2A4.cs",
               "RelativeToolTip": "..\\\uD074\uB798\uC2A4\uC640 \uB9E4\uC18C\uB4DC\\\uD074\uB798\uC2A4.cs",
-              "ViewState": "AQIAAF0AAAAAAAAAAAAcwGIAAAAKAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHMAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-17T05:24:43.554Z",
               "EditorCaption": ""
@@ -64,18 +63,17 @@
               "RelativeToolTip": "..\\\uD074\uB798\uC2A4\uC640 \uB9E4\uC18C\uB4DC\\\uB124\uC784\uC2A4\uD398\uC774\uC2A4.cs",
               "ViewState": "AQIAADoAAAAAAAAAAAAmwFUAAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-17T05:24:32.864Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-17T05:24:32.864Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\gajak\\Documents\\GitHub\\CSharpStudy240810\\\uD074\uB798\uC2A4\uC640 \uB9E4\uC18C\uB4DC\\Program.cs",
               "RelativeDocumentMoniker": "..\\\uD074\uB798\uC2A4\uC640 \uB9E4\uC18C\uB4DC\\Program.cs",
               "ToolTip": "C:\\Users\\gajak\\Documents\\GitHub\\CSharpStudy240810\\\uD074\uB798\uC2A4\uC640 \uB9E4\uC18C\uB4DC\\Program.cs",
               "RelativeToolTip": "..\\\uD074\uB798\uC2A4\uC640 \uB9E4\uC18C\uB4DC\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAADsAAAAMAAAA",
+              "ViewState": "AQIAAFQAAAAAAAAAAAAIwDsAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-17T05:13:48.631Z",
               "EditorCaption": ""
@@ -90,8 +88,7 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AQIAAK8AAAAAAAAAAAAAwMcAAAA4AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-10T06:08:03.829Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-10T06:08:03.829Z"
             }
           ]
         }
