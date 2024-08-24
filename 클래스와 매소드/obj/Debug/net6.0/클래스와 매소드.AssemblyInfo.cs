@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("클래스와 매소드")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b239c6f66435819e228c7fc092556d8431f99bff")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8b7da7aeebad023687be5b549655017a73368431")]
 [assembly: System.Reflection.AssemblyProductAttribute("클래스와 매소드")]
 [assembly: System.Reflection.AssemblyTitleAttribute("클래스와 매소드")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
