@@ -14,7 +14,7 @@ namespace 코드흐름제어
     static class 메인로비
     {
 
-        public static void GameStart()
+        public static void GameStart(Slime slime)
         {
             
 
@@ -26,8 +26,11 @@ namespace 코드흐름제어
 
                 if (a == 0)
                 {
+                    게임중.Player player = new 게임중.Player();
+
                     Console.WriteLine("게임 실행 중");
                     Console.WriteLine("1. 메뉴를 엽니다.");
+                    Console.WriteLine($"현재 플레이어의 체력 :");
                 }
                 else if (a == 1)
                 {
@@ -58,9 +61,7 @@ namespace 코드흐름제어
                 if (userinput == 1)
                 {
                     Console.WriteLine("게임을 실행 합니다.");
-                    GameStart();
-                    Player p1 = new Player();
-                    p1.GameInformation(p1);
+                    
                 }
                 else if (userinput == 2)
                 {
@@ -79,6 +80,7 @@ namespace 코드흐름제어
         }
     }
 }
+
 namespace 게임중
 {
     class Slime
@@ -86,30 +88,33 @@ namespace 게임중
         public int slimeHP;
         public int slimeAttackPower;
 
-        static public void slime(string[] args)
+        static public void slimeAttack(Slime slime, Player player)
         {
-            게임중.Slime slime = new 게임중.Slime();
+
             slime.slimeHP = 50;
             slime.slimeAttackPower = 5;
+
+            player.playerHP = player.playerHP - slime.slimeAttackPower;
         }
     }
     class Player
     {
-        public int userHP;
-        public int userAttackPower;
-        public void GameInformation(Player p1)
+        public int playerHP;
+        public int playerAttackPower;
+        public void GameInformation(Player player)
         {
-            p1.userHP = 100;
-
-            Console.WriteLine($"현재 플레이어의 체력 : {userHP}");
+            Console.WriteLine($"현재 플레이어의 체력 : {playerHP}");
         }
 
 
-        static public void user(string[] args)
+        static public void playerAttack(Player player, Slime slime)
         {
-            게임중.Player p1 = new 게임중.Player();
-            p1.userHP = 100;
-            p1.userAttackPower = 10;
+            slime.slimeHP = slime.slimeHP - player.playerAttackPower;
+
+            Console.WriteLine("");
+
+            player.playerHP = 100;
+            player.playerAttackPower = 10;
         }
     }
 }

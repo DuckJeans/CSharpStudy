@@ -1,0 +1,15 @@
+C:\Users\gajak\Documents\GitHub\CSharpStudy\클래스 상속\bin\Debug\net6.0\클래스 상속.exe
+C:\Users\gajak\Documents\GitHub\CSharpStudy\클래스 상속\bin\Debug\net6.0\클래스 상속.deps.json
+C:\Users\gajak\Documents\GitHub\CSharpStudy\클래스 상속\bin\Debug\net6.0\클래스 상속.runtimeconfig.json
+C:\Users\gajak\Documents\GitHub\CSharpStudy\클래스 상속\bin\Debug\net6.0\클래스 상속.dll
+C:\Users\gajak\Documents\GitHub\CSharpStudy\클래스 상속\bin\Debug\net6.0\클래스 상속.pdb
+C:\Users\gajak\Documents\GitHub\CSharpStudy\클래스 상속\obj\Debug\net6.0\클래스 상속.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gajak\Documents\GitHub\CSharpStudy\클래스 상속\obj\Debug\net6.0\클래스 상속.AssemblyInfoInputs.cache
+C:\Users\gajak\Documents\GitHub\CSharpStudy\클래스 상속\obj\Debug\net6.0\클래스 상속.AssemblyInfo.cs
+C:\Users\gajak\Documents\GitHub\CSharpStudy\클래스 상속\obj\Debug\net6.0\클래스 상속.csproj.CoreCompileInputs.cache
+C:\Users\gajak\Documents\GitHub\CSharpStudy\클래스 상속\obj\Debug\net6.0\클래스 상속.sourcelink.json
+C:\Users\gajak\Documents\GitHub\CSharpStudy\클래스 상속\obj\Debug\net6.0\클래스 상속.dll
+C:\Users\gajak\Documents\GitHub\CSharpStudy\클래스 상속\obj\Debug\net6.0\refint\클래스 상속.dll
+C:\Users\gajak\Documents\GitHub\CSharpStudy\클래스 상속\obj\Debug\net6.0\클래스 상속.pdb
+C:\Users\gajak\Documents\GitHub\CSharpStudy\클래스 상속\obj\Debug\net6.0\클래스 상속.genruntimeconfig.cache
+C:\Users\gajak\Documents\GitHub\CSharpStudy\클래스 상속\obj\Debug\net6.0\ref\클래스 상속.dll
